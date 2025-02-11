@@ -1,0 +1,244 @@
+[
+    {
+      "id": 1,
+      "email": "employee1@example.com",
+      "password": "12345",
+      "name":"Jhon",
+      "active": true,
+      "total_task": 10,
+      "completed_task": 7,
+      "failed_task": 2,
+      "accepted_task": 1,
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Task 1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos inventore nihil molestias unde eius porro ab molestiae quasi sequi doloremque.",
+          "category": "Development",
+          "failed": true,
+          "completed": false,
+          "accepted": false,
+          "date": "2025-02-08"
+        },
+        {
+          "id": 2,
+          "title": "Task 2",
+          "description": "Task description for task 2",
+          "category": "Testing",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-02-07"
+        },
+        {
+          "id": 3,
+          "title": "Task 3",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos inventore nihil molestias unde eius porro ab molestiae quasi sequi doloremque.",
+          "category": "web design",
+          "failed": true,
+          "completed": false,
+          "accepted": false,
+          "date": "2025-02-08"
+        },
+        {
+          "id": 4,
+          "title": "Task 4",
+          "description": "Task description for task 4",
+          "category": "Mobile App",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-02-07"
+        },
+        {
+          "id": 5,
+          "title": "Task 5",
+          "description": "Task description for task 5",
+          "category": "web Development",
+          "failed": true,
+          "completed": false,
+          "accepted": false,
+          "date": "2025-02-08"
+        },
+        {
+          "id": 6,
+          "title": "Task 6",
+          "description": "Task description for task 6",
+          "category": "Testing",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-02-07"
+        },
+        {
+          "id": 7,
+          "title": "Task 7",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos inventore nihil molestias unde eius porro ab molestiae quasi sequi doloremque.",
+          "category": "Development",
+          "failed": true,
+          "completed": false,
+          "accepted": false,
+          "date": "2025-02-08"
+        },
+        {
+          "id": 8,
+          "title": "Task 8",
+          "description": "Task description for task 8",
+          "category": "Frontened",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-02-07"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "email": "employee2@example.com",
+      "password": "12345",
+      "name":"Gon",
+      "active": true,
+      "total_task": 12,
+      "completed_task": 9,
+      "failed_task": 1,
+      "accepted_task": 2,
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Task A",
+          "description": "Task description for task A",
+          "category": "Marketing",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-02-05"
+        },
+        {
+          "id": 2,
+          "title": "Task B",
+          "description": "Task description for task B",
+          "category": "Development",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-02-02"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "email": "employee3@example.com",
+      "password": "12345",
+      "name":"Paul",
+      "active": false,
+      "total_task": 8,
+      "completed_task": 3,
+      "failed_task": 4,
+      "accepted_task": 1,
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Task X",
+          "description": "Task description for task X",
+          "category": "Design",
+          "failed": true,
+          "completed": false,
+          "accepted": false,
+          "date": "2025-01-30"
+        },
+        {
+          "id": 2,
+          "title": "Task Y",
+          "description": "Task description for task Y",
+          "category": "Development",
+          "failed": true,
+          "completed": false,
+          "accepted": false,
+          "date": "2025-01-25"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "email": "employee4@example.com",
+      "password": "12345",
+      "name":"Rao",
+      "active": true,
+      "total_task": 15,
+      "completed_task": 10,
+      "failed_task": 3,
+      "accepted_task": 2,
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Task 100",
+          "description": "Task description for task 100",
+          "category": "Marketing",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-02-03"
+        },
+        {
+          "id": 2,
+          "title": "Task 101",
+          "description": "Task description for task 101",
+          "category": "Testing",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-01-28"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "email": "employee5@example.com",
+      "password": "12345",
+      "name":"Peter",
+      "active": true,
+      "total_task": 20,
+      "completed_task": 12,
+      "failed_task": 4,
+      "accepted_task": 4,
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Task Z",
+          "description": "Task description for task Z",
+          "category": "Research",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-02-06"
+        },
+        {
+          "id": 2,
+          "title": "Task W",
+          "description": "Task description for task W",
+          "category": "Development",
+          "failed": false,
+          "completed": true,
+          "accepted": true,
+          "date": "2025-02-04"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "email": "admin1@example.com",
+      "password": "12345",
+      "name":"Harry",
+      "isAdmin":true,
+      "active": true
+    },
+    {
+      "id": 7,
+      "email": "admin2@example.com",
+      "password": "12345",
+      "name":"Jerry",
+      "isAdmin":true,
+      "active": true
+    }
+  ]
+  

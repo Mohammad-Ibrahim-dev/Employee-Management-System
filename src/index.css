@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "tailwindcss/utilities";
+.bar::-webkit-scrollbar{
+    display: none;
+}
+::selection{
+    display: none;
+}
